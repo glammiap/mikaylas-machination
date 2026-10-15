@@ -2,6 +2,7 @@
 ## things i think about ##
 1. stupid stuff
 2. other ridicuous items
-3. more things. 
+3. more things.
+4. snails.
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/4cecd947-f694-4c77-8061-70d6b984f476" />
