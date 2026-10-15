@@ -4,6 +4,8 @@
 2. other ridicuous items
 3. more things.
 4. snails.
+5. 
+<img width="256" height="192" alt="image" src= photoofmeandmytrophy />
 
 ![alt text](photoofmeandmytrophy)
 
