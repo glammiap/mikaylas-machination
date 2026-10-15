@@ -7,6 +7,4 @@
 5. 
 <img width="256" height="192" alt="image" src= photoofmeandmytrophy />
 
-![alt text](photoofmeandmytrophy)
-
 <img width="256" height="192" alt="image" src="https://github.com/user-attachments/assets/4cecd947-f694-4c77-8061-70d6b984f476" />
